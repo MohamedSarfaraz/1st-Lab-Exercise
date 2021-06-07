@@ -1,0 +1,11 @@
+package lcm;
+
+public class FindLCM {
+public static void main(String[] args) {
+	int number1 = 72, number2 = 140, lcm1;
+	lcm1=(number1>number2)?number1:number2;
+	while(true)
+		if(lcm1)
+	
+}
+}
